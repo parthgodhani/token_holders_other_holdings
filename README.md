@@ -1,5 +1,5 @@
 ## Try the App here:
-## [https://simrunbot.github.io/token_holders_other_holdings/](https://simrunbot.github.io/token_holders_other_holdings/)
+
 
 ## What this App does
 When you input an ERC-20 Token Address it shows you the top 10 or, depending on your input, more token holders.
